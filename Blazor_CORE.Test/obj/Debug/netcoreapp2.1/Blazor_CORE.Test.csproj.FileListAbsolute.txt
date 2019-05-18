@@ -1,0 +1,14 @@
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Test\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Test\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Test\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Test\bin\Debug\netcoreapp2.1\Blazor_CORE.Test.deps.json
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Test\bin\Debug\netcoreapp2.1\Blazor_CORE.Test.runtimeconfig.json
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Test\bin\Debug\netcoreapp2.1\Blazor_CORE.Test.runtimeconfig.dev.json
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Test\bin\Debug\netcoreapp2.1\Blazor_CORE.Test.dll
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Test\bin\Debug\netcoreapp2.1\Blazor_CORE.Test.pdb
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Test\obj\Debug\netcoreapp2.1\Blazor_CORE.Test.csprojAssemblyReference.cache
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Test\obj\Debug\netcoreapp2.1\Blazor_CORE.Test.csproj.CoreCompileInputs.cache
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Test\obj\Debug\netcoreapp2.1\Blazor_CORE.Test.AssemblyInfoInputs.cache
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Test\obj\Debug\netcoreapp2.1\Blazor_CORE.Test.AssemblyInfo.cs
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Test\obj\Debug\netcoreapp2.1\Blazor_CORE.Test.dll
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Test\obj\Debug\netcoreapp2.1\Blazor_CORE.Test.pdb

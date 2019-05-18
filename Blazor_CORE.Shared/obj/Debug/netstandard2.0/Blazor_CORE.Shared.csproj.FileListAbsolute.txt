@@ -1,0 +1,9 @@
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Shared\bin\Debug\netstandard2.0\Blazor_CORE.Shared.deps.json
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Shared\bin\Debug\netstandard2.0\Blazor_CORE.Shared.dll
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Shared\bin\Debug\netstandard2.0\Blazor_CORE.Shared.pdb
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Shared\obj\Debug\netstandard2.0\Blazor_CORE.Shared.csproj.CoreCompileInputs.cache
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Shared\obj\Debug\netstandard2.0\Blazor_CORE.Shared.AssemblyInfoInputs.cache
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Shared\obj\Debug\netstandard2.0\Blazor_CORE.Shared.AssemblyInfo.cs
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Shared\obj\Debug\netstandard2.0\Blazor_CORE.Shared.dll
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Shared\obj\Debug\netstandard2.0\Blazor_CORE.Shared.pdb
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Shared\obj\Debug\netstandard2.0\Blazor_CORE.Shared.csprojAssemblyReference.cache

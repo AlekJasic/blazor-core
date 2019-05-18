@@ -1,0 +1,39 @@
+C:\Users\jasic\.nuget\packages\microsoft.aspnetcore.blazor\0.7.0-preview1-20181005.2\lib\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\jasic\.nuget\packages\microsoft.aspnetcore.blazor.browser\0.7.0-preview1-20181005.2\lib\netstandard2.0\Microsoft.AspNetCore.Blazor.Browser.dll
+C:\Users\jasic\.nuget\packages\microsoft.aspnetcore.blazor.build\0.7.0-preview1-20181005.2\lib\netstandard1.0\Microsoft.AspNetCore.Blazor.TagHelperWorkaround.dll
+C:\Users\jasic\.nuget\packages\microsoft.csharp\4.4.0\lib\netstandard2.0\Microsoft.CSharp.dll
+C:\Users\jasic\.nuget\packages\microsoft.entityframeworkcore\2.0.3\lib\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jasic\.nuget\packages\microsoft.entityframeworkcore.relational\2.0.3\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jasic\.nuget\packages\microsoft.entityframeworkcore.sqlserver\2.0.3\lib\netstandard2.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jasic\.nuget\packages\microsoft.extensions.caching.abstractions\2.0.2\lib\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jasic\.nuget\packages\microsoft.extensions.caching.memory\2.0.2\lib\netstandard2.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jasic\.nuget\packages\microsoft.extensions.configuration.abstractions\2.0.2\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jasic\.nuget\packages\microsoft.extensions.dependencyinjection\2.1.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jasic\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\2.1.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jasic\.nuget\packages\microsoft.extensions.logging\2.0.2\lib\netstandard2.0\Microsoft.Extensions.Logging.dll
+C:\Users\jasic\.nuget\packages\microsoft.extensions.logging.abstractions\2.0.2\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jasic\.nuget\packages\microsoft.extensions.options\2.0.2\lib\netstandard2.0\Microsoft.Extensions.Options.dll
+C:\Users\jasic\.nuget\packages\microsoft.extensions.primitives\2.0.0\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jasic\.nuget\packages\microsoft.jsinterop\0.7.0-preview1-20181005.2\lib\netstandard2.0\Microsoft.JSInterop.dll
+C:\Users\jasic\.nuget\packages\microsoft.win32.registry\4.4.0\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\jasic\.nuget\packages\mono.webassembly.interop\0.7.0-preview1-20181005.2\lib\netstandard2.0\Mono.WebAssembly.Interop.dll
+C:\Users\jasic\.nuget\packages\remotion.linq\2.1.1\lib\netstandard1.0\Remotion.Linq.dll
+C:\Users\jasic\.nuget\packages\system.collections.immutable\1.4.0\lib\netstandard2.0\System.Collections.Immutable.dll
+C:\Users\jasic\.nuget\packages\system.componentmodel.annotations\4.4.0\lib\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\jasic\.nuget\packages\system.data.sqlclient\4.4.3\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\jasic\.nuget\packages\system.diagnostics.diagnosticsource\4.4.1\lib\netstandard1.3\System.Diagnostics.DiagnosticSource.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.interactive.async\3.1.1\lib\netstandard1.3\System.Interactive.Async.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.linq\4.1.0\lib\netstandard1.6\System.Linq.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.linq.expressions\4.1.0\lib\netstandard1.6\System.Linq.Expressions.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.linq.queryable\4.0.1\lib\netstandard1.3\System.Linq.Queryable.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.objectmodel\4.0.12\lib\netstandard1.3\System.ObjectModel.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.reflection.emit\4.0.1\lib\netstandard1.3\System.Reflection.Emit.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.reflection.emit.ilgeneration\4.0.1\lib\netstandard1.3\System.Reflection.Emit.ILGeneration.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.reflection.emit.lightweight\4.0.1\lib\netstandard1.3\System.Reflection.Emit.Lightweight.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.reflection.typeextensions\4.1.0\lib\netstandard1.5\System.Reflection.TypeExtensions.dll
+C:\Users\jasic\.nuget\packages\system.runtime.compilerservices.unsafe\4.4.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jasic\.nuget\packages\system.security.accesscontrol\4.4.0\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\jasic\.nuget\packages\system.security.principal.windows\4.4.0\lib\netstandard2.0\System.Security.Principal.Windows.dll
+C:\Users\jasic\.nuget\packages\system.text.encoding.codepages\4.4.0\lib\netstandard2.0\System.Text.Encoding.CodePages.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.threading\4.3.0\lib\netstandard1.3\System.Threading.dll
+E:\VSProjects\Blazor_CORE\Blazor_CORE.Shared\bin\Debug\netstandard2.0\Blazor_CORE.Shared.dll

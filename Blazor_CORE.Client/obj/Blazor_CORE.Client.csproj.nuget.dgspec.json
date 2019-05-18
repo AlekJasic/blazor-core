@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Client\\Blazor_CORE.Client.csproj": {}
+  },
+  "projects": {
+    "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Client\\Blazor_CORE.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Client\\Blazor_CORE.Client.csproj",
+        "projectName": "Blazor_CORE.Client",
+        "projectPath": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Client\\Blazor_CORE.Client.csproj",
+        "packagesPath": "C:\\Users\\jasic\\.nuget\\packages\\",
+        "outputPath": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jasic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/f/blazor-dev/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj": {
+                "projectPath": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Blazor.Browser": {
+              "target": "Package",
+              "version": "[0.7.0-preview1-20181005.2, )"
+            },
+            "Microsoft.AspNetCore.Blazor.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.7.0-preview1-20181005.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj",
+        "projectName": "Blazor_CORE.Shared",
+        "projectPath": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj",
+        "packagesPath": "C:\\Users\\jasic\\.nuget\\packages\\",
+        "outputPath": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jasic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
