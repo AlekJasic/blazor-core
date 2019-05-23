@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Server\\Blazor_CORE.Server.csproj": {}
+    "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Server\\Blazor_CORE.Server.csproj": {}
   },
   "projects": {
-    "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Client\\Blazor_CORE.Client.csproj": {
+    "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Client\\Blazor_CORE.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Client\\Blazor_CORE.Client.csproj",
+        "projectUniqueName": "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Client\\Blazor_CORE.Client.csproj",
         "projectName": "Blazor_CORE.Client",
-        "projectPath": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Client\\Blazor_CORE.Client.csproj",
+        "projectPath": "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Client\\Blazor_CORE.Client.csproj",
         "packagesPath": "C:\\Users\\jasic\\.nuget\\packages\\",
-        "outputPath": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Client\\obj\\",
+        "outputPath": "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj": {
-                "projectPath": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj"
+              "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj": {
+                "projectPath": "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Server\\Blazor_CORE.Server.csproj": {
+    "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Server\\Blazor_CORE.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Server\\Blazor_CORE.Server.csproj",
+        "projectUniqueName": "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Server\\Blazor_CORE.Server.csproj",
         "projectName": "Blazor_CORE.Server",
-        "projectPath": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Server\\Blazor_CORE.Server.csproj",
+        "projectPath": "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Server\\Blazor_CORE.Server.csproj",
         "packagesPath": "C:\\Users\\jasic\\.nuget\\packages\\",
-        "outputPath": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Server\\obj\\",
+        "outputPath": "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -97,11 +97,11 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Client\\Blazor_CORE.Client.csproj": {
-                "projectPath": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Client\\Blazor_CORE.Client.csproj"
+              "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Client\\Blazor_CORE.Client.csproj": {
+                "projectPath": "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Client\\Blazor_CORE.Client.csproj"
               },
-              "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj": {
-                "projectPath": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj"
+              "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj": {
+                "projectPath": "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj"
               }
             }
           }
@@ -152,14 +152,14 @@
         }
       }
     },
-    "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj": {
+    "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj",
+        "projectUniqueName": "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj",
         "projectName": "Blazor_CORE.Shared",
-        "projectPath": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj",
+        "projectPath": "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj",
         "packagesPath": "C:\\Users\\jasic\\.nuget\\packages\\",
-        "outputPath": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Shared\\obj\\",
+        "outputPath": "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

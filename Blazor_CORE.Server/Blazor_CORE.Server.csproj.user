@@ -12,5 +12,6 @@
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>Blazor_CORE.Shared.Models.ConcertManagementContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
+    <NameOfLastUsedPublishProfile>BlazorCOREServer - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

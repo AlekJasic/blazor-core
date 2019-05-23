@@ -50,7 +50,7 @@
                             <label for="Name" class="control-label">Date</label>
                         </td>
                         <td>
-                            <input type="text" class="form-control" bind="@concertM.ConcertDate" />
+                            <input type="date" class="form-control" bind="@concertM.ConcertDate" format-value="yyyy-MM-dd" />
                         </td>
                     </tr>
                     <tr>
@@ -218,7 +218,7 @@ else
                     @ConcertMasterObj.Description
                 </td>
                 <td class="gridConcertDataCell">
-                    @ConcertMasterObj.ConcertDate.ToShortDateString()
+                    @ConcertMasterObj.ConcertDate.ToString("dd.MM.yyyy")
                 </td>
                 <td class="gridConcertDataCell">
                     @ConcertMasterObj.TicketServiceName

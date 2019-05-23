@@ -3084,11 +3084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj",
+      "projectUniqueName": "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj",
       "projectName": "Blazor_CORE.Shared",
-      "projectPath": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj",
+      "projectPath": "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Shared\\Blazor_CORE.Shared.csproj",
       "packagesPath": "C:\\Users\\jasic\\.nuget\\packages\\",
-      "outputPath": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Shared\\obj\\",
+      "outputPath": "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

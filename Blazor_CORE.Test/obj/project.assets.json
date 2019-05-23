@@ -5980,11 +5980,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Test\\Blazor_CORE.Test.csproj",
+      "projectUniqueName": "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Test\\Blazor_CORE.Test.csproj",
       "projectName": "Blazor_CORE.Test",
-      "projectPath": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Test\\Blazor_CORE.Test.csproj",
+      "projectPath": "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Test\\Blazor_CORE.Test.csproj",
       "packagesPath": "C:\\Users\\jasic\\.nuget\\packages\\",
-      "outputPath": "E:\\VSProjects\\Blazor_CORE\\Blazor_CORE.Test\\obj\\",
+      "outputPath": "E:\\VSProjects\\GIT\\Blazor_CORE\\Blazor_CORE.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
